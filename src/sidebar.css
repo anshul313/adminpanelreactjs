@@ -1,0 +1,15 @@
+
+.left{
+    width: 20%;
+    background-color: #efefef;
+    height:auto;
+    margin-top: 65px;
+}
+
+.left li{
+   height: 50px;
+   border: 1px black solid;
+}
+.left li:hover{
+    background-color: cornflowerblue;
+}
